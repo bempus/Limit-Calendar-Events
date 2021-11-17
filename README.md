@@ -21,3 +21,9 @@ A script designed to run on  https://script.google.com/ with the "Caledar"-seriv
 
 ## Credit
 - This script was originally made for [Vhe Intuition](https://vheintution.com/)
+
+## Other projects
+[Q-er](https://q-er.live) - A queuing system for Twitch.tv
+
+## Contact
+ If you have any questions feel free to [Contact me](mailto:info@q-er.live)
