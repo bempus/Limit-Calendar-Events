@@ -7,12 +7,12 @@ A script designed to run on  https://script.google.com/ with the "Caledar"-seriv
 
 ## Description
   This script will add full-day events to your calendar when the criteria is met.
-  ### limitBookings()
-  By retrieving recently updated events (default 60 seconds) this function can detect if a day should be closed based on the set criteria.
+> ### limitBookings()
+> By retrieving recently updated events (default 60 seconds) this function can detect if a day should be closed based on the set criteria.
   
-  ### limitBookingsMonthly()
-  This function checks every day in a set period of time (default 90 days) and updates the day based on the set criteria. 
-  It is recommended that this funciton is only used once or twice a day.
+> ### limitBookingsMonthly()
+>  This function checks every day in a set period of time (default 90 days) and updates the day based on the set criteria. 
+>  It is recommended that this funciton is only used once or twice a day.
 
 ## Resources
 - [Google's Apps Script](https://script.google.com/) - Platform to run google scripts ***don't forget to add the Calendar service***
