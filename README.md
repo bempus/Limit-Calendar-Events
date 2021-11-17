@@ -7,7 +7,7 @@ A script designed to run on  https://script.google.com/ with the "Caledar"-seriv
 
 ## Description
   This script will add full-day events to your calendar when the criteria is met.
-  ### limitBooings()
+  ### limitBookings()
   By retrieving recently updated events (default 60 seconds) this function can detect if a day should be closed based on the set criteria.
   
   ### limitBookingsMonthly
