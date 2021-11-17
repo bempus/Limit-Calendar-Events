@@ -10,7 +10,7 @@ A script designed to run on  https://script.google.com/ with the "Caledar"-seriv
   ### limitBookings()
   By retrieving recently updated events (default 60 seconds) this function can detect if a day should be closed based on the set criteria.
   
-  ### limitBookingsMonthly
+  ### limitBookingsMonthly()
   This function checks every day in a set period of time (default 90 days) and updates the day based on the set criteria. 
   It is recommended that this funciton is only used once or twice a day.
 
