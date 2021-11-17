@@ -26,4 +26,4 @@ A script designed to run on  https://script.google.com/ with the "Caledar"-seriv
 [Q-er](https://q-er.live) - A queuing system for Twitch.tv
 
 ## Contact
- If you have any questions feel free to [Contact me](mailto:info@q-er.live)
+ If you have any questions feel free to [Contact me](mailto:bempus@q-er.live)
