@@ -1,7 +1,5 @@
 # Limit Bookings in Google Calendar
-A script designed to run on  https://script.google.com/ with the "Caledar"-serivce.
 
-## Pitch
  Imagine you have 4 available timeslots in a day, however you want to close the day once 3 of them are filled. You obviously don't want to check manually. 
  This is what Limit Bookings was designed for.
 
